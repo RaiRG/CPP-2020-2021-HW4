@@ -4,4 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+        analyser.cpp \
         main.cpp
+
+HEADERS += \
+    analyser.h
